@@ -1,1 +1,0 @@
-- [ ] Fix temperature *(unsupported by the kernel at the moment)*
